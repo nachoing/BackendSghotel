@@ -1,0 +1,20 @@
+{
+  "name": "backsghotel",
+  "version": "1.0.0",
+  "description": "backend de sistema de gestion de hotel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request",
+    "response",
+    "GET",
+    "POST",
+    "PUT",
+    "patch",
+    "delete"
+  ],
+  "author": "luis fabian alvarez y juan ignacio luquez",
+  "license": "ISC"
+}
